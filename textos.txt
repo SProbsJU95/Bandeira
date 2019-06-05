@@ -1,0 +1,26 @@
+sp
+São Paulo é uma das 27 unidades federativas do Brasil. Está situado na Região Sudeste e tem por limites os estados de Minas Gerais a norte e nordeste,
+Paraná a sul, Rio de Janeiro a leste e Mato Grosso do Sul a oeste, além do Oceano Atlântico a sudeste.
+
+Área: 248.209 km²
+População: 44,04 milhões (1 de jul de 2014)
+
+
+rj
+Rio de Janeiro é uma das 27 unidades federativas do Brasil. Situa-se a sudeste da região Sudeste do país, tendo como limites os estados de Minas Gerais, 
+Espírito Santo e São Paulo, além do Oceano Atlântico. Ocupa uma área de 43 780,172 km².
+
+Área: 43.696 km²
+População: 16,72 milhões (2017)
+
+tocantins
+Tocantins é uma das 27 unidades federativas do Brasil, sendo o seu mais novo estado. Está localizado a sudeste da Região Norte e tem como limites Goiás a sul, 
+Mato Grosso a oeste e sudoeste, Pará a oeste e noroeste, Maranhão a norte, nordeste e leste, Piauí a leste e Bahia a leste e sudeste.
+	
+População: 1,497 milhão (1 de jul de 2014)
+
+minas
+Minas Gerais é uma das 27 unidades federativas do Brasil, sendo o quarto estado com a maior área territorial e o segundo em quantidade de habitantes, localizada na Região Sudeste do país.
+
+Área: 586.528 km²
+População: 20,87 milhões (2015)
